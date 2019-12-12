@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("../images/floor-tile.png");
+}
+.block{
+    background-color: #ffffff;
+    padding: 30px;
+    margin-block: 30px;
+}
+.block-header{
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px; 
+}
+#about-image{
+    float: left;
+    width: 150px;
+    margin: 0 20px 10px 0;
+    
+}
+.navbar-brand{
+    color: white; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:  bold;
+    line-height: 35px;
+    font-size: 20px;
+    text-align: center;
+    background: #4aaaa5;
+    
+}
+
+.navbar {
+    border: solid 3px #dddddd;
+    height: 50px; 
+    margin: 0 0 30px 0;
+}
