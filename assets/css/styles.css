@@ -1,6 +1,12 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("../images/floor-tile.png");
+    
+     background-image: url("../images/jesus-kiteque-wn-KYaHwcis-unsplash.jpg");
+    background-repeat: no-repeat;
+       /* background-attachment: fixed; */
+  background-position: center;
+  background-size: 100% auto; 
+  /* above: how to take the zoom out of the background picture */
 }
 
 .block {
@@ -20,6 +26,7 @@ body {
     float: left;
     width: 150px;
     margin: 0 20px 10px 0;
+    border-radius: 80%;
 
 }
 
@@ -89,3 +96,6 @@ footer {
 .submit-btn {
     background-color: #4aaaa5;
 }
+/* Photo by Brandi Redd on Unsplash
+Photo by Hello I'm Nik 🇬🇧 on Unsplash - seta
+ Photo by Jesus Kiteque on Unsplash*/
